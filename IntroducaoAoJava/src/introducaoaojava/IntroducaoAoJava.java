@@ -5,10 +5,6 @@ import java.util.Scanner;
 public class IntroducaoAoJava {
    
     public static void main(String[] args) {
-        
-        System.out.println("Olá mundo!!!");
-        System.out.println("Mauri");
-        
         Scanner entrada = new Scanner(System.in);
         System.out.println("Vamos somar dois números.");
         System.out.println("Informe um valor para o número 1:");
